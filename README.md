@@ -17,3 +17,7 @@ Some pictures of how the theme looks:
 ![A picture of the home page](https://storage.googleapis.com/replit/images/1612077377352_2a288302cdddc35961cbe3349dc3b937.png)
 ![A picture of the feed](https://storage.googleapis.com/replit/images/1612077522449_bf286803b4feffe389f151e256ff1ceb.png)
 ![A picture of a post page](https://storage.googleapis.com/replit/images/1612077481580_7522036a2a041352f8d5e646fe7bfb06.png)
+
+## Issues
+
+There are some issues in the theme which I hope you can all help me with. Such as the add a repl button's text is not seen clearly in the pages, when writing text in a comment or a post you cannot see the text clearly as the background is dark and the text is black when you are writing it, and other things. These are not too vivid changes but if any of you can give me better colors to replace those with I will do so kindly. I couldn't find anything so I didn't replace it. Also, if you can, tell me which property I need to change with the color you have given to make the theme better. Create issues on GitHub for all of this. Bye!!
